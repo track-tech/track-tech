@@ -117,9 +117,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/track-tech/track-tech/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/track-tech/track-tech/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/track-tech/track-tech/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/track-tech/track-tech@output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/track-tech/track-tech@output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://cdn.jsdelivr.net/gh/track-tech/track-tech@output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
@@ -145,3 +145,4 @@
 <p align="center">
   <i>From linkage design to policies that run — building machines that actually move.</i> 🦿
 </p>
+
